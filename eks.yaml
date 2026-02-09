@@ -9,7 +9,7 @@ metadata:
 
 managedNodeGroups:
 - name: ng-1
-  instanceTypes: m5.large
+  instanceType: m5.large
   desiredCapacity: 3
   spot: true
 
